@@ -667,6 +667,12 @@ header .seperator-skew svg .fill-white {
 
   header .hero span {
     max-width: 100%;
+
+  }
+
+  header .hero span .hide-when-narrow {
+    display: none;
+
   }
 
   header .hero p {

@@ -127,7 +127,7 @@ a {
 #backToTopBtn {
   position: fixed;
   right: 20px;
-  bottom: 20px;
+  top: 20px;
   padding: 0.5rem 0.9rem;
   opacity: 0;
   visibility: hidden;
